@@ -13,4 +13,4 @@ st.header("GO LOUD")
 st.subheader("O careca é campeão")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+st.write("Deus é bom e o Diabo não presta!")

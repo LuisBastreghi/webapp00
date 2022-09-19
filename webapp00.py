@@ -7,7 +7,7 @@ import streamlit as st
 st.title("Neymar é Deus")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("GO LOUD")
+st.header("FOME")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("O careca é campeão")
